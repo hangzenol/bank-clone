@@ -1,4 +1,4 @@
-# bank-clone
+# Bank Clone
  Hello everyone!
 
  I am Zen, going to create a online banking clone in order to enhance my skills
